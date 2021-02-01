@@ -3,7 +3,7 @@ import socket
 import sys
 
 if len(sys.argv) !=2:
-	print “Usage: vrfy.py <username>”
+	print “Usage: smtp_enum.py <username>”
 	sys.exit(0)
 
 # Create a Socket
